@@ -1,3 +1,3 @@
-# X-posure ( One Page Resume Application. )
+# Xposure ( One Page Resume Application. )
 ### HTML/CSS/JS resume (cv) template
 
